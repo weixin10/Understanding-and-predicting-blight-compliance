@@ -23,6 +23,6 @@ A 7 page report detailing:
 1. Data processing steps (Reduced the number of input features, introduced time to hearing as a new feature and converted categorical data into numerical data.)
 2. Exploratory data analysis exploring the relationship between various input features and compliance.
 3. The model evaluation metrics chosen.
-4. The performance of Logistic Regression as a baseline model, followed by Random Forest Classifier and XGBoost Classifier as more accurate models. Optimal parameters for each model was determined.
+4. The performance of Logistic Regression as a baseline model, followed by Random Forest Classifier and XGBoost Classifier as more accurate models.
 5. Important features for prediction
 6. Results and Actionable Takeaways
