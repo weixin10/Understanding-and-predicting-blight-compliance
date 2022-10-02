@@ -13,7 +13,7 @@ This project is the fourth assignment in the Applied Machine Learning in Python 
 As the rate of compliance increases, the city could fund more blight remediation programs.
 
 ## Data description
-1. train.csv - tickets issued from 2004 to 2011
+1. train.zip - tickets issued from 2004 to 2011
 2. test.csv - ticket issued from 2012 to 2016
 3. address.csv - file containing the ticket IDs and corresponding addresses
 4. latlons.csv -  file containing addresses and corresponding coordinates (latitude and longitude)
