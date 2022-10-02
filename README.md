@@ -12,18 +12,17 @@ This project is the fourth assignment in the Applied Machine Learning in Python 
 
 As the rate of compliance increases, the city could fund more blight remediation programs.
 
-## Data description
+## Data description (Found in the input files folder)
 1. train.zip - tickets issued from 2004 to 2011
-2. test.csv - ticket issued from 2012 to 2016
+2. test.csv - tickets issued from 2012 to 2016
 3. address.csv - file containing the ticket IDs and corresponding addresses
 4. latlons.csv -  file containing addresses and corresponding coordinates (latitude and longitude)
 
-## Report
+## Report (Found in the report folder)
 A 7 page report detailing:
-1. Data processing steps (Reduced number of input features, introduced time to hearing and converted categorical data into numerical data.)
+1. Data processing steps (Reduced the number of input features, introduced time to hearing as a new feature and converted categorical data into numerical data.)
 2. Exploratory data analysis exploring the relationship between various input features and compliance.
-3. Model evaluation metrics chosen
-4. The performance of Logistic Regression as a baseline model, Random Forest Classifier and XGBoost Classifier as well as optimal parameters for each model.
+3. The model evaluation metrics chosen.
+4. The performance of Logistic Regression as a baseline model, followed by Random Forest Classifier and XGBoost Classifier as more accurate models. Optimal parameters for each model was determined.
 5. Important features for prediction
 6. Results and Actionable Takeaways
-
